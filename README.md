@@ -136,5 +136,4 @@ lib/
 - **Permission denied on Android 13+?** → The app requests `POST_NOTIFICATIONS` at runtime automatically
 
 ## Author
-
-NIYONKURU Jean De La Croix — Year 3 CSE, University of Rwanda
+Lorraine — Year 3 CSE
